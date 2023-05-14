@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am a 4th year software engineering student at the University of Alberta. I am also working as the CEO and Co-Founder in Maple Dating Inc.
+I am a graduate student in software engineering student at the University of Alberta. I am also working as the CEO and Co-Founder in Maple Dating Inc.
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
