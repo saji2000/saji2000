@@ -25,7 +25,7 @@ I am a full-stack developer specialized in React.js, Node.js and a product manag
 
 
 ## &#x1f4c8; GitHub Stats
-   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=dracula&langs_count=6&hide=c&&exclude_repo=IBM_ML,leetcode)
+   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=dracula&langs_count=6&hide=c&exclude_repo=leetcode&hide=html,Makefile)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api?username=saji2000&show_icons=true&include_all_commits=true&theme=dracula)
 
