@@ -24,6 +24,11 @@ I am a full-stack developer specialized in React.js, Node.js and a product manag
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 
 
+## &#x1f4c8; GitHub Stats
+   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=dracula&langs_count=6&hide=c)
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=saji2000&show_icons=true&include_all_commits=true&theme=dracula)
+
 
 <!--
 **saji2000/saji2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
