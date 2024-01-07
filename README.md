@@ -10,7 +10,7 @@ I am Sajad a Software Engineering Graduate from Unviersity of Alberta and CEO & 
 I am a full-stack developer specialized in React.js, Node.js and a product manager for my career.
 
 ## 🔧 Technologies & Tools
-<p align="left"> 
+<p align="left" style="text-decoration:none"> 
  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://react.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40"/> </a>
  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
