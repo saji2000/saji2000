@@ -18,8 +18,8 @@ I am a full-stack developer specialized in React.js, Node.js and a product manag
           <img
             src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=512"
             alt="aws"
-            width="60"
-            height="60"
+            width="40"
+            height="40"
           />
         </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
