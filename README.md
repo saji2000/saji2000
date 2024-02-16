@@ -32,7 +32,7 @@ Software Engineering Graduate from Unviersity of Alberta, Backend Developer & CE
 
 
 ## &#x1f4c8; GitHub Stats
-   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=html,Makefile&exclude_repo=leetcode)
+   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=html,Makefile&exclude_repo=leetcode,olympics-ml)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api?username=saji2000&show_icons=true&include_all_commits=true&theme=radical)
 
