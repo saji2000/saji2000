@@ -2,7 +2,7 @@
 I am Sajad, a full-stack developer specialized in React.js, Node.js and a product manager for my career.
 Software Engineering Graduate from Unviersity of Alberta, Backend Developer & CEO  at Maple Dating Inc.
 
-- 👨🏻‍💻 [My personal website](https://saji2000.github.io/Portfolio)
+- 👨🏻‍💻 [My personal website](https://sajaddaneshmand.com)
 - :speech_balloon: How to reach me: <br>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sajaddaneshmand79@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sajad-danesh/)
