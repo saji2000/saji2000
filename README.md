@@ -1,6 +1,6 @@
 ### Hello World! 👋
 I am Sajad, a full-stack developer specialized in React.js, Node.js and a product manager for my career.
-Software Engineering Graduate from Unviersity of Alberta, Backend Developer & CEO  at Maple Dating Inc.
+Software Engineering Graduate from Unviersity of Alberta, Lead Software Engineer and Product Manager  at Maple Dating Inc.
 
 - 👨🏻‍💻 [My personal website](https://sajaddaneshmand.com)
 - :speech_balloon: How to reach me: <br>
