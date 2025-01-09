@@ -1,5 +1,5 @@
 ### Hello World! 👋
-I am Sajad, a Product Manager
+I am Sajad, a Software Engineer
 My field of Interest's are building new  Digital Products Also I am interested in Artificial Intelligence and Data Science
 - 👨🏻‍💻 [My personal website](https://sajaddaneshmand.com)
 - :speech_balloon: How to reach me: <br>
