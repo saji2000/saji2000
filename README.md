@@ -31,9 +31,9 @@ My field of Interest's are building new  Digital Products Also I am interested i
 
 
 ## &#x1f4c8; GitHub Stats
- <!--  ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=html,Makefile&exclude_repo=leetcode,olympics-ml)-->
+   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=html,Makefile&exclude_repo=leetcode,olympics-ml)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api?username=saji2000&show_icons=true&include_all_commits=true&theme=radical)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=saji2000&show_icons=true&include_all_commits=true&theme=radical)-->
 
 
 <!--
