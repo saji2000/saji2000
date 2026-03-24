@@ -13,14 +13,15 @@ My field of Interest's are building new  Digital Products Also I am interested i
  <a href="https://react.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40"/> </a>
  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://www.aws.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=512" alt="aws" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
+ <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://openai.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/> </a>
 </p>
-
 
 ## &#x1f4c8; GitHub Stats
    ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=xslt,css,html,blade,Php,Cpp,Makefile,Jupyter%20Notebook&exclude_repo=leetcode,olympics-ml,beyond,quranparsi,Portfolio,Whatsappclone,chat-app,Reactportfolio,recipe-app,crud,beyond,shimmer-shelf-frontend,mms-frontend,mms-backend,quran-parsi,coderbyte-interview,social-network,React-Native,nodejs,meta-project,weather-app)
