@@ -24,7 +24,7 @@ My field of Interest's are building new scalable and production ready backend sy
 ## &#x1f4c8; GitHub Stats
    ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=xslt,css,html,blade,Php,Cpp,Makefile,Jupyter%20Notebook&exclude_repo=leetcode,olympics-ml,beyond,quranparsi,Portfolio,Whatsappclone,chat-app,Reactportfolio,recipe-app,crud,beyond,shimmer-shelf-frontend,mms-frontend,mms-backend,quran-parsi,coderbyte-interview,social-network,React-Native,nodejs,meta-project,weather-app)
    
-[![Sajad's GitHub stats](https://github-stats-extended.vercel.app/api?username=saji2000)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saji2000&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=5&hide=xslt,css,html,blade,Php,Cpp,Makefile,Jupyter%20Notebook&exclude_repo=leetcode,olympics-ml,beyond,quranparsi,Portfolio,Whatsappclone,chat-app,Reactportfolio,recipe-app,crud,beyond,shimmer-shelf-frontend,mms-frontend,mms-backend,quran-parsi,coderbyte-interview,social-network,React-Native,nodejs,meta-project,weather-app&theme=dark)
 
 <!--
 **saji2000/saji2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
