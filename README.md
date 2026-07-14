@@ -22,8 +22,6 @@ My field of Interest's are building new scalable and production ready backend sy
 </p>
 
 ## &#x1f4c8; GitHub Stats
-   ![Sajad's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saji2000&layout=compact&theme=radical&langs_count=6&hide=xslt,css,html,blade,Php,Cpp,Makefile,Jupyter%20Notebook&exclude_repo=leetcode,olympics-ml,beyond,quranparsi,Portfolio,Whatsappclone,chat-app,Reactportfolio,recipe-app,crud,beyond,shimmer-shelf-frontend,mms-frontend,mms-backend,quran-parsi,coderbyte-interview,social-network,React-Native,nodejs,meta-project,weather-app)
-   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saji2000&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=5&hide=xslt,css,html,blade,Php,Cpp,Makefile,Jupyter%20Notebook&exclude_repo=leetcode,olympics-ml,beyond,quranparsi,Portfolio,Whatsappclone,chat-app,Reactportfolio,recipe-app,crud,beyond,shimmer-shelf-frontend,mms-frontend,mms-backend,quran-parsi,coderbyte-interview,social-network,React-Native,nodejs,meta-project,weather-app&theme=dark)
 
 <!--
